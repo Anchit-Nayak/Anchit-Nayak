@@ -14,13 +14,16 @@
 
 
   <a href="https://medium.com/@anchitnayak00">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
 
   <a href="https://twitter.com/AnchitNayak">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
   <a href = "mailto:anchitnayak00@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+    
+  <a href="https://www.linkedin.com/in/anchit-nayak-4944a522a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>  
 
   </a>
   <br>
