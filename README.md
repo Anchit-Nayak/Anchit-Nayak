@@ -1,7 +1,6 @@
 <!--- Start Profile README --->
 
 <div align="center">
-<img src = "https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
 
 <div id="header" align="center">
   <h1>
