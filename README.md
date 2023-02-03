@@ -12,10 +12,6 @@
 <div id="header" align="center">
   <div id="badges">
 
-
-  <a href="https://medium.com/@anchitnayak00">
-  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-
   <a href="https://twitter.com/AnchitNayak">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
