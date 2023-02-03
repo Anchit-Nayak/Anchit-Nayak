@@ -31,7 +31,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
    <h3>
- 💻Tech Passionate | 🌍 Explorer | 👨‍💻 Coder </h3> </div>
+ 💻Tech Passionate | 🌍 Explorer | 👨‍💻 Programmer </h3> </div>
 
 -<h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development, and DevOps. </h4>
 
