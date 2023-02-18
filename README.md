@@ -33,9 +33,9 @@
    <h3>
  💻Tech Passionate | 🌍 Explorer | 👨‍💻 Programmer </h3> </div>
 
--<h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, Web Development, and DevOps. </h4>
+-<h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Web3, DevOps and App Development. </h4>
 
--<h4>:seedling: I’m interested in Web Development, Cloud Computing, DevOps, Open Source, Competitive Programming, and many more. </h4>
+-<h4>:seedling: I’m interested in Web3, App Development, DevOps, Open Source, Competitive Programming, and many more. </h4>
     
 -<h4>:mailbox:How to reach me: </h4>
 
