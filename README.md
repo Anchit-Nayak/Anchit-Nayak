@@ -11,10 +11,6 @@
 
 <div id="header" align="center">
   <div id="badges">
-
-  <a href="https://twitter.com/AnchitNayak">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-
   <a href = "mailto:anchitnayak00@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
     
@@ -29,13 +25,12 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
-   <h3>
- 💻Tech Passionate | 🌍 Explorer | 👨‍💻 Programmer </h3> </div>
+<h3>About Me : </h3>
+   </div>
 
 -<h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. Currently, I am currently learning Web3 and DevOps.</h4>
 
--<h4>:seedling: I’m interested in Web Development, Cloud-Computing, DevOps, Open Source, Competitive Programming, and many more. </h4>
+-<h4>:seedling: I’m interested in Web Development, Cloud-Computing, DevOps, and many more. </h4>
     
 -<h4>:mailbox:How to reach me: </h4>
 
