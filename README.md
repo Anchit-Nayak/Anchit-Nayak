@@ -1,37 +1,25 @@
-<!--- Start Profile README --->
+## 📊 Github Stats
 
-<div align="center">
+<span>
+<a href="https://github.com/Anchit-Nayak">
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Anchit-Nayak&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Anchit-Nayak&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
+</a>
+</span>
 
-<div id="header" align="center">
-  <h1>
-  Hi there, I'm Anchit Nayak
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
-</h1>
-<br>
 
-<div id="header" align="center">
-  <div id="badges">
-  <a href = "mailto:anchitnayak00@gmail.com">
-    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-    
-  <a href="https://www.linkedin.com/in/anchit-nayak-4944a522a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>  
 
+## 📈 Coding Profiles
+
+<span>
+<a href="https://leetcode.com/BlackMambaa">
+<img width="full" height="350" src="https://leetcard.jacoblin.cool/BlackMambaa?theme=dark&font=Ubuntu&cache=14400&ext=heatmap&sheets=https://gist.githubusercontent.com/BlackMambaa/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="BlackMambaa Leetcode Stats"/>
+</a>
+</span>
+
+
+
+## 🧩 Technologies I've worked with
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,vite,postman,docker,kubernetes,jenkins,express,nodejs,mongodb,vscode,git,bash,vercel,netlify,aws,azure,linux,github" />
   </a>
-  <br>
-
-  </div>
-
-
-<div align="center">
-
-<h3>About Me : </h3>
-   </div>
-
--<h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. Currently, I am currently learning Web3 and DevOps.</h4>
-
--<h4>:seedling: I’m interested in Web Development, Cloud-Computing, DevOps, and many more. </h4>
-    
--<h4>:mailbox:How to reach me: </h4>
-
-<a herf= "mailto:anchitnayak00@gmail.com"> **Email:** anchitnayak00@gmail.com </a>
