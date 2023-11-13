@@ -11,9 +11,6 @@
 <a href="https://instagram.com/_anchitttt" target="_blank">
 <img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codechef.com/users/anchitttt" target="_blank">
-  <img src="https://img.shields.io/badge/codechef-703C1D?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
 </div>
 
 ## 📊 Github Stats
