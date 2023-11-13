@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Anchit Nayak <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anchit-Nayak&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="Anchit-Nayak" /> </p>
+
 ## 📊 Github Stats
 
 <span>
