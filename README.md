@@ -24,5 +24,5 @@
 
 ## 🧩 Technologies I've worked with
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,vite,postman,docker,kubernetes,jenkins,express,nodejs,mongodb,vscode,git,bash,vim,netlify,aws,azure,linux,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,vite,postman,docker,kubernetes,jenkins,express,nodejs,mongodb,vscode,git,bash,vim,vercel,aws,linux,github" />
   </a>
