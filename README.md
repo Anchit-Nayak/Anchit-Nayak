@@ -27,8 +27,11 @@
 ## 📈 Coding Profiles
 
 <span>
+<a href="https://codeforces.com/profile/Creammyyy">
+<img height="350" src="https://codeforces-readme-stats.vercel.app/api/card?username=Creammyyy&theme=github_dark&force_username=true&border_color=404040" alt="Creammyyy Codeforces Stats"/>
+</a>
 <a href="https://leetcode.com/BlackMambaa">
-<img height="350"src="https://leetcard.jacoblin.cool/BlackMambaa?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/BlackMambaa/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="BlackMambaa Leetcode Stats"/>
+<img height="350" src="https://leetcard.jacoblin.cool/BlackMambaa?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/BlackMambaa/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="BlackMambaa Leetcode Stats"/>
 </a>
 </span>
 
