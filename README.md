@@ -38,15 +38,15 @@
 
 ### Web Development
   <a href="https://skillicons.dev">
-    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,go,postman,next,redis,express,nodejs,postgres,mongodb" />
+    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,redis,express,nodejs,postgres,mongodb" />
   </a>
 
 ### DevOps
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,grafana,nginx,vercel,aws" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,prometheus,grafana,nginx,vercel,aws" />
   </a>
 
 ### Others
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,bash,vim,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=go,cpp,vscode,bash,vim,git,github,linux" />
   </a>
