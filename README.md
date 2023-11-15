@@ -15,17 +15,20 @@
 
 ## 📊 Github Stats
 
+<div align="center">
 <span>
 <a href="https://github.com/Anchit-Nayak">
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Anchit-Nayak&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Anchit-Nayak&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Anchit-Nayak Github Stats" />
 </a>
 </span>
+</div>
 
 
 
 ## 📈 Coding Profiles
 
+<div align="center">
 <span>
 <a href="https://codeforces.com/profile/Creammyyy">
 <img height="350" src="https://codeforces-readme-stats.vercel.app/api/card?username=Creammyyy&theme=github_dark&force_username=true&border_color=404040" alt="Creammyyy Codeforces Stats"/>
@@ -34,22 +37,16 @@
 <img height="350" src="https://leetcard.jacoblin.cool/BlackMambaa?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/BlackMambaa/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="BlackMambaa Leetcode Stats"/>
 </a>
 </span>
+</div>
 
 
 
 ## 🧩 Technologies I've worked with
 
-### Web Development
+<div align="center">
   <a href="https://skillicons.dev">
-    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,redis,express,nodejs,postgres,mongodb" />
+    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,redis,express,nodejs,postgres,mongodb,docker,kubernetes,jenkins,prometheus,grafana,vercel,aws,go,cpp,vscode,bash,vim,git,github,linux" />
   </a>
+</div>
 
-### DevOps
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,prometheus,grafana,nginx,vercel,aws" />
-  </a>
-
-### Others
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cpp,vscode,bash,vim,git,github,linux" />
-  </a>
+[![An image of @anchittt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anchittt)](https://holopin.io/@anchittt)
