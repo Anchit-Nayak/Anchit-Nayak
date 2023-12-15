@@ -18,8 +18,8 @@
 <div align="center">
 <span>
 <a href="https://github.com/Anchit-Nayak">
-<img height="185" width="420" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Anchit-Nayak&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="185" width="420" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Anchit-Nayak&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Anchit-Nayak Github Stats" />
+<img height="185" width="400" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Anchit-Nayak&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<img height="185" width="400" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Anchit-Nayak&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Anchit-Nayak Github Stats" />
 </a>
 </span>
 </div>
