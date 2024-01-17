@@ -28,8 +28,8 @@
 ## 📈 Coding Profiles
 
 <div align="center">
-<a href="https://leetcode.com/BlackMambaa" target="_blank">
-<img height="316" src="https://leetcard.jacoblin.cool/BlackMambaa?theme=dark&font=Ubuntu&cache=14400&ext=heatmap&sheets=https://gist.githubusercontent.com/BlackMambaa/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="BlackMambaa Leetcode Stats"/>
+<a href="https://leetcode.com/0mnik1ng" target="_blank">
+<img height="316" src="https://leetcard.jacoblin.cool/0mnik1ng?theme=dark&font=Ubuntu&cache=14400&ext=heatmap&sheets=https://gist.githubusercontent.com/BlackMambaa/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="0mnik1ng Leetcode Stats"/>
 </a>
 </div>
 
@@ -39,6 +39,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,redis,express,nodejs,postgres,mongodb,docker,kubernetes,jenkins,netlify,vercel,aws,go,cpp,vscode,bash,neovim,vim,git,github,linux" />
+    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,express,nodejs,redis,kafka,postgres,mongodb,docker,kubernetes,jenkins,vercel,aws,go,cpp,vscode,bash,neovim,vim,git,github,linux" />
   </a>
 </div>
