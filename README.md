@@ -1,17 +1,3 @@
-<h1 align="center">Hi, I'm Anchit Nayak</h1>
-
-<div align="center">
-<a href="https://linkedin.com/in/anchit-nayak/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:anchitnayak00@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/_anchitttt" target="_blank">
-<img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
-
 ## 📊 Github Stats
 
 <div align="center">
