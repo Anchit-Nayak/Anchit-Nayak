@@ -34,3 +34,5 @@
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=anchit-nayak&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
 
+[![An image of @anchittt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anchittt)](https://holopin.io/@anchittt)
+
