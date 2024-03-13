@@ -10,16 +10,6 @@
 </div>
 
 
-
-## 📈 Coding Profiles
-
-<div align="center">
-<a href="https://leetcode.com/0mnik1ng" target="_blank">
-<img height="316" src="https://leetcard.jacoblin.cool/0mnik1ng?theme=dark&font=Ubuntu&cache=14400&ext=heatmap&sheets=https://gist.githubusercontent.com/BlackMambaa/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="0mnik1ng Leetcode Stats"/>
-</a>
-</div>
-
-
 ## 🧩 Technologies I've worked with
 
 <div align="center">
@@ -32,7 +22,4 @@
 
 ## 🗓️ Contribution Graph
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=anchit-nayak&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
-
-
-[![An image of @anchittt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anchittt)](https://holopin.io/@anchittt)
 
