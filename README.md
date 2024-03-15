@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,express,nodejs,redis,postgres,mongodb,docker,kubernetes,cloudflare,vercel,aws,prometheus,grafana,cpp,vscode,bash,neovim,vim,git,github,linux" />
+    <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,express,nodejs,redis,postgres,mongodb,docker,kubernetes,cpp,workers,cloudflare,vercel,aws,prometheus,grafana,bash,neovim,vim,git,github,linux" />
   </a>
 </div>
 
