@@ -13,9 +13,7 @@
 ## 🧩 Technologies I've worked with
 
 <div align="center">
-  <a href="https://skillicons.dev">
     <img width="full" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,prisma,postman,next,express,nodejs,redis,postgres,mongodb,docker,kubernetes,cpp,workers,cloudflare,vercel,aws,prometheus,grafana,bash,neovim,vim,git,github,linux" />
-  </a>
 </div>
 
 <br/>
