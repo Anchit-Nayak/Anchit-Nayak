@@ -1,3 +1,8 @@
+
+<div align="center">
+<a href="https://github.com/anchit-nayak/"><img src="https://komarev.com/ghpvc/?username=anchit-nayak&label=Profile%20views&color=blue&style=flat-square" alt="varospaxo" /></a>
+</div>
+
 ## 📊 Github Stats
 
 <div align="center">
