@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"> I'm Anchit</h1>
+<h3 align="center">A passionate developer from India who always tries to TRY :)</h3>
 
 <div align="center">
 <a href="https://github.com/anchit-nayak/"><img src="https://komarev.com/ghpvc/?username=anchit-nayak&label=Profile%20views&color=blue&style=flat-square" alt="varospaxo" /></a>
@@ -5,14 +7,12 @@
 
 ## 📊 Github Stats
 
-<div align="center">
-<span>
-<a href="https://github.com/Anchit-Nayak" target="_blank">
-<img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Anchit-Nayak&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Anchit-Nayak&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Anchit-Nayak Github Stats" />
-</a>
-</span>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=anchit-nayak&show_icons=true&theme=transparent&hide_border=true" alt="anchit-nayak" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=anchit-nayak&theme=transparent&hide_border=true" alt="anchit-nayak" /></td>
+  </tr>
+</table>
 
 
 ## 🧩 Technologies I've worked with
