@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India who always tries to TRY :)</h3>
 
 <div align="center">
-<a href="https://github.com/anchit-nayak/"><img src="https://komarev.com/ghpvc/?username=anchit-nayak&label=Profile%20views&color=blue&style=flat-square" alt="" /></a>
+<a href="https://github.com/anchit-nayak/"><img src="https://komarev.com/ghpvc/?username=anchit-nayak&label=Profile%20views&color=blue&style=flat-square" alt="anchit-nayak" /></a>
 </div>
 
 ## 📊 Github Stats
